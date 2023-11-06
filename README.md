@@ -1,5 +1,5 @@
 # Web-Scraping
-![image](https://github.com/aashok30/Web-Scraping/assets/101622691/d072b97f-519a-4611-92fb-5876f9a2dff5)
+![image](https://github.com/aashok30/Web-Scraping/assets/101622691/be94994e-9b7f-47ee-a447-7f135ebba281)
 
 Welcome to the IMDb Top-Rated Movies Web Scraping project powered by AutoScraper. In this repository, I demonstrate how to extract structured information from IMDb's list of top-rated movies using Python's AutoScraper library! In this repository, you will find a Python-based web scraping solution to extract valuable data from IMDb's list of top-rated movies. IMDb is a well-known database of movies, TV shows, and celebrities, making it an excellent source for movie-related data.
 
